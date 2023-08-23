@@ -34,9 +34,6 @@ int main()
 
     cout << "Sebastian Guillen Guzman" << endl;
     cout << "Santiago Chaves Garbanzo" << endl;
-<<<<<<< HEAD
     cout << "Andres Hernandez Avendaño" << endl;
-=======
     cout << "Mi nombre es Carmen " << endl;
->>>>>>> 60ae8275d9005a03561a803069c59ab1899c69ec
 }
